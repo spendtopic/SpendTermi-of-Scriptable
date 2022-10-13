@@ -1,6 +1,8 @@
 // Variables used by Scriptable.
 // These must be at the very top of the file. Do not edit.
 // icon-color: blue; icon-glyph: info-circle;
+
+
 // version beta 1.0 (101T1303c)
 // Github https://github.com/spendtopic/SpendTermi-of-Scriptable
 // SpendTopic https://t.me/Topicst
