@@ -16,7 +16,9 @@ Can you write java? We're find a programmer because we __don't have programmers_
 If you can coding, please DM us and we will introduce the relevant content to you.
 
 ### Next Update (beta1.1)
+*2022-10-19*
 - Countdown 
+
 
 
 
