@@ -1,6 +1,10 @@
 # SpendTermi beta 1.0
 
+
 From [SpendTopic](https://t.me/Topicst)
+
+----
+[![CodeQL](https://github.com/spendtopic/SpendTermi-of-Scriptable/actions/workflows/codeql.yml/badge.svg?branch=main)](https://github.com/spendtopic/SpendTermi-of-Scriptable/actions/workflows/codeql.yml)
 ### What can this widget be used for?
 - Calendar Event 
 - Countdown
