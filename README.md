@@ -41,4 +41,4 @@ If you can coding, please DM us and we will introduce the relevant content to yo
 - Countdown 
 
 ---
-*This is the first gift to [SpendTopic](https://t.me/Topicst) supporters*
+*This is the first gift to [SpendTopic](https://t.me/Topicst) subscriber.*
