@@ -36,7 +36,7 @@ If you can coding, please DM us and we will introduce the relevant content to yo
 ### [Other](https://github.com/spendtopic/SpendTermi-of-Scriptable/blob/main/other.md)
 
 
-### Next Update (beta1.1)
+### (expected)Next Update (beta1.1)
 *2022-10-24*
 - Countdown 
 
