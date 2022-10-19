@@ -1,8 +1,7 @@
 # SpendTermi beta 1.0
 
 
-From [SpendTopic](https://t.me/Topicst) 
-The latest version is in the INV group.
+From [SpendTopic](https://t.me/Topicst) and the latest version is in the INV group.
 
 ----
 [![CodeQL](https://github.com/spendtopic/SpendTermi-of-Scriptable/actions/workflows/codeql.yml/badge.svg?branch=main)](https://github.com/spendtopic/SpendTermi-of-Scriptable/actions/workflows/codeql.yml)
