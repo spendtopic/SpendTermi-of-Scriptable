@@ -7,6 +7,6 @@
 | 14.x   | :question: |
 | < 14.0   | :x:      |
 
-We recommend iOS 16.0
+We recommend iOS 16.0, if you cannot use please **create an issue**.
 
-[Back](https://github.com/spendtopic/SpendTermi-of-Scriptable/blob/main/README.md#other)
+#### [Back to home](https://github.com/spendtopic/SpendTermi-of-Scriptable/blob/main/README.md#other)
