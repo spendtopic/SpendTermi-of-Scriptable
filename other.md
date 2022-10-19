@@ -5,3 +5,7 @@
 | 15.x   | :white_check_mark:   |
 | 14.x   | :question: |
 | < 14.0   | :x:      |
+
+
+
+[Back](https://github.com/spendtopic/SpendTermi-of-Scriptable/blob/main/README.md#other)
