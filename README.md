@@ -33,6 +33,9 @@ Can you write java? We're find a programmer because we __don't have programmers_
 
 If you can coding, please DM us and we will introduce the relevant content to you.
 
+### Other
+https://github.com/spendtopic/SpendTermi-of-Scriptable/blob/main/SECURITY.md
+
 ### Next Update (beta1.1)
 *2022-10-24*
 - Countdown 
