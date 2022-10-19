@@ -11,7 +11,7 @@ const DEVICE_NAME = 'TODO';
 const WORK_CALENDAR_NAME = 'TODO';
 const PERSONAL_CALENDAR_NAME = 'TODO';
 const DISPLAY_COUNTDOWN = true; // true or false
-const COUNTDOWN_UDAYS = ''; // This is the countdown date. Please use the ISO8601 format: yyyy-mm-dd. Like this 2022-10-13
+const COUNTDOWN_UDAYS = ''; // This is the countdown date. Please use the ISO8601 format: yyyy-mm-dd. Like this 2022-10-19
 const COUNTDOWN_NAME = 'TODO'; 
 const COUNTDOWN_DATE = false; // true or false
 
