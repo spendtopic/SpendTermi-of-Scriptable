@@ -36,9 +36,16 @@ If you can coding, please DM us and we will introduce the relevant content to yo
 ### [Other](https://github.com/spendtopic/SpendTermi-of-Scriptable/blob/main/other.md)
 
 
-### Next Update (beta1.1)
-*2022-10-24*
-- Countdown 
-
+### Next Update (beta2.0)
+*Undecided*
+- New T2
+  - Update T1 to T2
+  - Add adaptive font size
+  - Add Countdown date color change
+  - Add log system
+  - Fix some Countdown system bug 
+    - Rebuild Calendar system
+    - Adaptive Calendar on/off
+    - Allways display calendar
 ---
 *This is the first gift to [SpendTopic](https://t.me/Topicst) subscriber.*
