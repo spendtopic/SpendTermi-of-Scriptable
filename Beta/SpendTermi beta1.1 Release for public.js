@@ -76,7 +76,8 @@ Update log
 *1.1*
 101T1400c /now version/
 Release for Public
-101T1400b /now version/
+
+101T1400b
 Release for inv group
 
 101T1400a
