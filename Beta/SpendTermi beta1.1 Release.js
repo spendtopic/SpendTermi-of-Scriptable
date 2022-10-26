@@ -13,7 +13,7 @@ const WORK_CALENDAR_NAME = '';
 const PERSONAL_CALENDAR_NAME = '';
 const DISPLAY_COUNTDOWN = true; // true or false
 const COUNTDOWN_UDAYS = ''; // This is the countdown date. Please use the ISO8601 format: yyyy-mm-dd. Like this [2022-10-13]
-const COUNTDOWN_NAME = 'Release Beta 1.1'; 
+const COUNTDOWN_NAME = ''; 
 const COUNTDOWN_DATE = false; // COUNTDOWN_UDAYS required / true or false
 
 
@@ -74,6 +74,8 @@ if (DEV_MODE){const versionfLine = stack.addSpacer(1);const versionLine = stack.
 /*
 Update log
 *1.1*
+101T1400c /now version/
+Release for Public
 101T1400b /now version/
 Release for inv group
 
