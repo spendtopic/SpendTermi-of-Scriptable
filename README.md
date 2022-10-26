@@ -1,4 +1,4 @@
-# SpendTermi beta 1.0
+# SpendTermi beta 1.1
 
 
 From [SpendTopic](https://t.me/Topicst) and the latest version is in the INV group.
