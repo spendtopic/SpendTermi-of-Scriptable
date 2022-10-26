@@ -72,26 +72,34 @@ if (DEV_MODE){const versionfLine = stack.addSpacer(1);const versionLine = stack.
 // ^^Set widget^^
 // --------------------------------------------------
 /*
-Update log
-*1.1*
-101T1400c /now version/
-Release for Public
+Update logs
 
+*1.1
+101T1400c
+(2022-10-26)Release for public channel
+
+*1.0*
+101T1303d
+(2022-10-19)Release for public channel
+
+*1.1*
 101T1400b
-Release for inv group
+(2022-10-17)Release for inv group
 
 101T1400a
 Adaptive day/days conversion
 
 *1.0*
 101T1303c
-Release for inv group
+(2022-10-14)Release for inv group
 
 101T1303b
 Countdown can be turned off
 
 101T1303a
 New algorithm of T1
+- Add Countdown,Calendar,DeviceStatus system
+
 
 You can download at https://github.com/spendtopic/SpendTermi-of-Scriptable
 */
