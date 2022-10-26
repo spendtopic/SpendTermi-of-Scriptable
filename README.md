@@ -38,13 +38,12 @@ If you can coding, please DM us and we will introduce the relevant content to yo
 
 ### Next Update (beta2.0)
 *Undecided*
-- New T2
-  - Update T1 to T2
+- Update T1 to T2
   - Add adaptive font size
   - Add Countdown date color change
   - Add log system
   - Fix some Countdown system bug 
-  - Rebuild Calendar system
+  - Rebuild Calendar system  
     - Adaptive Calendar on/off
     - Allways display calendar
 ---
