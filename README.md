@@ -38,6 +38,7 @@ If you can coding, please DM us and we will introduce the relevant content to yo
 
 ### Next Update (beta2.0)
 *Undecided*
+![Photo](https://github.com/spendtopic/SpendTermi-of-Scriptable/blob/main/img/2471EB13-EFB4-45C4-ABCD-4F77E35DE64A.png)
 - Update T1 to T2
   - Add adaptive font size
   - Add Countdown date color change
