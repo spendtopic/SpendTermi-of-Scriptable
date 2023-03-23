@@ -9,7 +9,7 @@
 
 | Scriptable Version | Supported|
 | ------ | -------- |
-| 1.7 (tested) | :white_check_mark: |
+| 1.7.x (tested) | :white_check_mark: |
 | 1.6.12 (tested) | :white_check_mark: |
 | < 1.6.11 | :question: |
 
