@@ -14,7 +14,7 @@
 | 1.6.12 (tested) | :white_check_mark: |
 | < 1.6.11 | :question: |
 
-We recommend **iOS 16.0**[^1] and **Scriptable 1.6.12**, if you cannot use please [create an issue](https://github.com/spendtopic/SpendTermi-of-Scriptable/issues/new).
+We recommend **iOS 16.5**[^1] and **Scriptable 1.7.5**, if you cannot use please [create an issue](https://github.com/spendtopic/SpendTermi-of-Scriptable/issues/new).
 
 [^1]: Because we don't know if lower iOS versions use other features.
 
