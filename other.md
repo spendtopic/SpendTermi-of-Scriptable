@@ -1,8 +1,9 @@
 ## Supported Versions
 | iOS Version | Supported          |
 | ------- | ------------------ |
-| 16.4 RC (tested) | :white_check_mark: |
-| 16.0 ~ 16.3 (tested)  | :white_check_mark:   |
+| 17 (tested) | :x: |
+| 16.6 Beta 2 (tested) | :white_check_mark: |
+| 16.0 ~ 16.5 (tested)  | :white_check_mark:   |
 | 15.x   | :white_check_mark: |
 | 14.x   | :question: |
 | < 14.0   | :x:      |
