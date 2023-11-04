@@ -1,4 +1,4 @@
-# SpendTermi beta 1.1
+# SpendTermi beta 2.0
 
 
 From [SpendTopic](https://t.me/Topicst) and the latest version is in the INV group.
@@ -11,7 +11,7 @@ From [SpendTopic](https://t.me/Topicst) and the latest version is in the INV gro
 
 ### Introduce Now Function
 - Calendar Event
-  - Personal and Work Calendar Event notice(at widget) 
+  - Personal and Work Calendar Event notice (at widget) 
 
 - Countdown 
   - Calculate remaining days
@@ -36,16 +36,8 @@ If you can coding, please DM us and we will introduce the relevant content to yo
 ### [Other](https://github.com/spendtopic/SpendTermi-of-Scriptable/blob/main/other.md)
 
 
-### Next Update (beta2.0)
+### Next Update (beta2.1)
 *Undecided*
-![Photo](https://github.com/spendtopic/SpendTermi-of-Scriptable/blob/main/img/2471EB13-EFB4-45C4-ABCD-4F77E35DE64A.png)
-- Update T1 to T2
-  - Add adaptive font size
-  - Add Countdown date color change
-  - Add log system
-  - Fix some Countdown system bug 
-  - Rebuild Calendar system  
-    - Adaptive Calendar on/off
-    - Allways display calendar
+- Update Device Status system change color
+
 ---
-*This is the first gift to [SpendTopic](https://t.me/Topicst) subscriber.*
